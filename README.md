@@ -8,7 +8,7 @@
   <b>`プログラマ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Yasmin Ramos</b>
+      Hello world! I'm <b>Yasmin Ramos</b>
   </samp>
 </div>
 
