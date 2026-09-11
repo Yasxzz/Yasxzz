@@ -16,7 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Development+student;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/yas_♡-black" />
