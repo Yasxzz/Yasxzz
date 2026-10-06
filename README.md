@@ -6,6 +6,7 @@
 <div align="center">
   
   <b>`プログラマ`</b>
+  <br>
   <samp>
       <br>
       Hello world! I'm <b>Yasmin Ramos</b>
